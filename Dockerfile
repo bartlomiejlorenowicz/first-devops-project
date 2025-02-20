@@ -1,3 +1,4 @@
+zmiana X
 # Oficjalny obraz Ubuntu
 FROM ubuntu:latest
 
